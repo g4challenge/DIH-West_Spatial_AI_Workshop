@@ -12,6 +12,7 @@ Der Workshop wurde im Rahmen des Digital Innovation Hub West (https://dih-west.a
 
 Autoren:
 Prof. (FH) Dr. Lukas Huber
+
 Daniel Aumayr B.A. B.Sc.
 
 Interessieren Sie sich für unsere Arbeit, dann schauen sie auf unserer Studiengangswebsite vorbei, https://www.fh-kufstein.ac.at/Studieren/master/data-science-intelligent-analytics-bb/Einblicke-ins-Studium
