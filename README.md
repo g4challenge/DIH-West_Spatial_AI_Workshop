@@ -8,4 +8,11 @@ Für die Installation von DepthAI verweisen wir auf https://docs.luxonis.com/en/
 
 Die weiterführenden Beispiele sind auf https://github.com/luxonis/depthai-experiments zu finden und wurden für den Workshop nur marginal angepasst.
 
+Der Workshop wurde im Rahmen des Digital Innovation Hub West (https://dih-west.at/) erstellt und druchgeführt.
+
+Autoren:
+Prof. (FH) Dr. Lukas Huber
+Daniel Aumayr B.A. B.Sc.
+
+Interessieren Sie sich für unsere Arbeit, dann schauen sie auf unserer Studiengangswebsite vorbei, https://www.fh-kufstein.ac.at/Studieren/master/data-science-intelligent-analytics-bb/Einblicke-ins-Studium
 
