@@ -6,6 +6,6 @@ Im Workshop beschäftigten sich die Teilnehmenden mit unterschieldichen Einsatzm
 
 Für die Installation von DepthAI verweisen wir auf https://docs.luxonis.com/en/latest/. 
 
-Die weiterführenden Beispiele sind auf https://github.com/luxonis/depthai-experiments zu finden und wurden für den Workshop nur marginal angepastt.
+Die weiterführenden Beispiele sind auf https://github.com/luxonis/depthai-experiments zu finden und wurden für den Workshop nur marginal angepasst.
 
 
